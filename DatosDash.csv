@@ -1,0 +1,87 @@
+X,Y,Personas,Tipo,X1,Y1,Personas1,Tipo1,X2,Y2,Personas2,Tipo2,X3,Y3,Personas3,Tipo3,X4,Y4,Personas4,Tipo4
+Nivel de escolaridad,Sin experiencia escolar,20,Escolaridad,Maiz,Nunca,1,Cereales,Nivel de ansiedad,No se detecta ansiedad,28,Psicología,Oficios,Estudiante,2,Trabajos,Significado de SARScov2-19,Saben qué significa,40,Información general
+Nivel de escolaridad,Primaria incompleta,14,Escolaridad,Maiz,1 o 2 veces por semana ,4,Cereales,Nivel de ansiedad,Síntomas leves,27,Psicología,Oficios,Pensionado o jubilado,4,Trabajos,Significado de SARScov2-19,No saben qué significa,23,Información general
+Nivel de escolaridad,Primaria completa,13,Escolaridad,Maiz,3 o 4 veces por semana,6,Cereales,Nivel de ansiedad,Síntomas  moderados,6,Psicología,Oficios,contratista,5,Trabajos,Medio de conocimiento,Televisión,42,Información general
+Nivel de escolaridad,Secundaria completa,12,Escolaridad,Maiz,Diario ,52,Cereales,Nivel de ansiedad,Síntomas severos,2,Psicología,Oficios,Otro,7,Trabajos,Medio de conocimiento,Centro de salud,6,Información general
+Nivel de escolaridad,Secundaria incompleta,2,Escolaridad,Arroz ,Nunca,1,Cereales,,,,,Oficios,Trabajador en cuenta propia,8,Trabajos,Medio de conocimiento,Vecinos,6,Información general
+Nivel de escolaridad,Educación superior completa ,1,Escolaridad,Arroz ,Diario ,4,Cereales,,,,,Oficios,Empleado,16,Trabajos,Medio de conocimiento,Radio,4,Información general
+Nivel de escolaridad,Educación superior incompleta ,1,Escolaridad,Arroz ,3 o 4 veces por semana,9,Cereales,,,,,Oficios,Ama de Casa,32,Trabajos,Medio de conocimiento,Redes sociales,2,Información general
+Nivel de escolaridad,Preparatoria completa,1,Escolaridad,Arroz ,1 o 2 veces por semana ,49,Cereales,,,,,Lugares de oficio,Teabo,12,Empleado,Medio de conocimiento,Familiares,1,Información general
+Tipo de vivienda,Convencional,45,Vivienda,Avena ,Nunca,7,Cereales,,,,,Lugares de oficio,Mérida,2,Empleado,Medio de conocimiento,Periódico,1,Información general
+Tipo de vivienda,Tradicional,12,Vivienda,Avena ,3 o 4 veces por semana,11,Cereales,,,,,Lugares de oficio,Tekax,1,Empleado,Medio de conocimiento,Plática de maestros,1,Información general
+Tipo de vivienda,Mixta,3,Vivienda,Avena ,Diario ,15,Cereales,,,,,Lugares de oficio,Hogar,1,Empleado,Personas vulnerables,Niños (0 a 11 años),1,Conocimiento básico
+Tipo de vivienda,Vernácula,2,Vivienda,Avena ,1 o 2 veces por semana ,30,Cereales,,,,,Estabilidad ,No lo conservaron,7,Empleado,Personas vulnerables,Adultos (30 a 59 años),3,Conocimiento básico
+Tipo de vivienda,Precaria,1,Vivienda,Trigo ,Diario ,3,Cereales,,,,,Estabilidad ,Sí lo conservaron,9,Empleado,Personas vulnerables,Adultos mayores (mayores de 60 años),26,Conocimiento básico
+Padecimientos,Diabetes,25,Enfermedades,Trigo ,1 o 2 veces por semana ,21,Cereales,,,,,Reducción salario,No lo consideran,3,Empleado,Personas vulnerables,Los que padecen enfermedades,33,Conocimiento básico
+Padecimientos,Hipertensión,30,Enfermedades,Trigo ,Nunca,39,Cereales,,,,,Reducción salario,Si lo consideran,5,Empleado,Conoce el medio de transmisión,No sabe,14,Conocimiento básico
+Padecimientos,Otra,16,Enfermedades,Res,Nunca,14,Alimentos de origen animal,,,,,Funcionamiento empresa,No ha seguido funcionando,2,Empleador,Conoce el medio de transmisión,Sí sabe,49,Conocimiento básico
+Padecimientos,Obesidad,7,Enfermedades,Res,1 o 2 veces por semana ,49,Alimentos de origen animal,,,,,Funcionamiento empresa,Ha seguido funcionando,12,Empleador,conoce persona Asintomática,No sabe,43,Conocimiento básico
+Padecimientos,Cardiovasculares,0,Enfermedades,Pollo ,Nunca,1,Alimentos de origen animal,,,,,Nivel de ventas,No se mantuvo,9,Empleador,conoce persona Asintomática,Sí sabe,20,Conocimiento básico
+Padecimientos,Pulmonares,0,Enfermedades,Pollo ,Diario ,3,Alimentos de origen animal,,,,,Nivel de ventas,Sí se mantuvo,3,Empleador,Cuidados en casa,No sabe,5,Conocimiento de atención
+Padecimientos,Del Hígado,0,Enfermedades,Pollo ,3 o 4 veces por semana,20,Alimentos de origen animal,,,,,Acciones ,Disminuir la jornada de trabajo,2,Empleador,Cuidados en casa,Si sabe,58,Conocimiento de atención
+Padecimientos,Cancer,0,Enfermedades,Pollo ,1 o 2 veces por semana ,39,Alimentos de origen animal,,,,,Acciones ,Cambio en el modelo del negocio,1,Empleador,Cuidados fuera de casa,No sabe,2,Conocimiento de atención
+Padecimientos,No padece ninguna,11,Enfermedades,Puerco,Nunca,1,Alimentos de origen animal,,,,,Acciones ,ninguna,1,Empleador,Cuidados fuera de casa,No salgo de mi casa,3,Conocimiento de atención
+Padecimientos,Asma,1,Enfermedades,Puerco,3 o 4 veces por semana,13,Alimentos de origen animal,,,,,Acciones ,Despedir empleados,1,Empleador,Cuidados fuera de casa,Si sabe,58,Conocimiento de atención
+Padecimientos,Insuficiencia renal,2,Enfermedades,Puerco,1 o 2 veces por semana ,49,Alimentos de origen animal,,,,,,,,,Cuidados  si familiar enfermo,Otra,1,Conocimiento de atención
+Ejercicio físico,Sí practicaba,28,Hábitos,Pescado,3 o 4 veces por semana,1,Alimentos de origen animal,,,,,,,,,Cuidados  si familiar enfermo,Consultar con un médico tradicional,1,Conocimiento de atención
+Ejercicio físico,No practicaba,35,Hábitos,Pescado,1 o 2 veces por semana ,19,Alimentos de origen animal,,,,,,,,,Cuidados  si familiar enfermo,Llamar a un médico particular,3,Conocimiento de atención
+Cambiará  alimentación ,Sí lo considera,16,Hábitos,Pescado,Nunca,43,Alimentos de origen animal,,,,,,,,,Cuidados  si familiar enfermo,Avisar a la presidencia municipal,4,Conocimiento de atención
+Cambiará  alimentación ,No lo considera,47,Hábitos,Derivados leche,Nunca,3,Alimentos de origen animal,,,,,,,,,Cuidados  si familiar enfermo,Llamar a alguna línea de atención de COVD-19,6,Conocimiento de atención
+Incremento de peso ,Sí ha incrementado,21,Hábitos,Derivados leche,Diario,9,Alimentos de origen animal,,,,,,,,,Cuidados  si familiar enfermo,No sabe,9,Conocimiento de atención
+Incremento de peso ,No ha incrementado,42,Hábitos,Derivados leche,3 o 4 veces por semana,10,Alimentos de origen animal,,,,,,,,,Cuidados  si familiar enfermo,Ir directamente al centro de salud,12,Conocimiento de atención
+Modificaron  alimentación ,Sí modificaron,26,Hábitos,Derivados leche,1 o 2 veces por semana ,41,Alimentos de origen animal,,,,,,,,,Cuidados  si familiar enfermo,Aislarse en casa,27,Conocimiento de atención
+Modificaron  alimentación ,No modificaron,37,Hábitos,Huevo,Nunca,6,Alimentos de origen animal,,,,,,,,,Cuidados de enfermo,No sabe,37,Conocimiento de atención
+,,,,Huevo,Diario,9,Alimentos de origen animal,,,,,,,,,,,,
+,,,,Huevo,3 o 4 veces por semana,13,Alimentos de origen animal,,,,,,,,,,,,
+,,,,Huevo,1 o 2 veces por semana ,35,Alimentos de origen animal,,,,,,,,,,,,
+,,,,Ibes,3 o 4 veces por semana,4,Leguminosas,,,,,,,,,,,,
+,,,,Ibes,Nunca,17,Leguminosas,,,,,,,,,,,,
+,,,,Ibes,1 o 2 veces por semana ,42,Leguminosas,,,,,,,,,,,,
+,,,,Xpelón ,Nunca,16,Leguminosas,,,,,,,,,,,,
+,,,,Xpelón ,1 o 2 veces por semana ,47,Leguminosas,,,,,,,,,,,,
+,,,,Frijol,Diario ,5,Leguminosas,,,,,,,,,,,,
+,,,,Frijol,3 o 4 veces por semana,26,Leguminosas,,,,,,,,,,,,
+,,,,Frijol,1 o 2 veces por semana ,32,Leguminosas,,,,,,,,,,,,
+,,,,Lentejas,3 o 4 veces por semana,5,Leguminosas,,,,,,,,,,,,
+,,,,Lentejas,Nunca,8,Leguminosas,,,,,,,,,,,,
+,,,,Lentejas,1 o 2 veces por semana ,50,Leguminosas,,,,,,,,,,,,
+,,,,Frutas,1 o 2 veces por semana,36,Frutas y verduras,,,,,,,,,,,,
+,,,,Frutas,3 o 4 veces por semana,14,Frutas y verduras,,,,,,,,,,,,
+,,,,Frutas,Diario,12,Frutas y verduras,,,,,,,,,,,,
+,,,,Frutas,Nunca,1,Frutas y verduras,,,,,,,,,,,,
+,,,,Verduras,1 o 2 veces por semana,36,Frutas y verduras,,,,,,,,,,,,
+,,,,Verduras,3 o 4 veces por semana,16,Frutas y verduras,,,,,,,,,,,,
+,,,,Verduras,Diario,10,Frutas y verduras,,,,,,,,,,,,
+,,,,Verduras,Nunca,1,Frutas y verduras,,,,,,,,,,,,
+,,,,Pan Francés,3 o 4 veces por semana,8,Harinas,,,,,,,,,,,,
+,,,,Pan Francés,Nunca,10,Harinas,,,,,,,,,,,,
+,,,,Pan Francés,Diario,16,Harinas,,,,,,,,,,,,
+,,,,Pan Francés,1 o 2 veces por semana,29,Harinas,,,,,,,,,,,,
+,,,,Pan Dulce,3 o 4 veces por semana,10,Harinas,,,,,,,,,,,,
+,,,,Pan Dulce,Diario,10,Harinas,,,,,,,,,,,,
+,,,,Pan Dulce,Nunca,13,Harinas,,,,,,,,,,,,
+,,,,Pan Dulce,1 o 2 veces por semana,30,Harinas,,,,,,,,,,,,
+,,,,Galletas,Nunca,5,Harinas,,,,,,,,,,,,
+,,,,Galletas,3 o 4 veces por semana,13,Harinas,,,,,,,,,,,,
+,,,,Galletas,Diario,22,Harinas,,,,,,,,,,,,
+,,,,Galletas,1 o 2 veces por semana,23,Harinas,,,,,,,,,,,,
+,,,,Golosinas,3 o 4 veces por semana,1,Harinas,,,,,,,,,,,,
+,,,,Golosinas,Diario,2,Harinas,,,,,,,,,,,,
+,,,,Golosinas,1 o 2 veces por semana,16,Harinas,,,,,,,,,,,,
+,,,,Golosinas,Nunca,44,Harinas,,,,,,,,,,,,
+,,,,Aceite,Diario,8,Grasas,,,,,,,,,,,,
+,,,,Aceite,3 o 4 veces por semana,10,Grasas,,,,,,,,,,,,
+,,,,Aceite,Nunca,11,Grasas,,,,,,,,,,,,
+,,,,Aceite,1 o 2 veces por semana,34,Grasas,,,,,,,,,,,,
+,,,,Manteca,Diario,8,Grasas,,,,,,,,,,,,
+,,,,Manteca,3 o 4 veces por semana,10,Grasas,,,,,,,,,,,,
+,,,,Manteca,Nunca,21,Grasas,,,,,,,,,,,,
+,,,,Manteca,1 o 2 veces por semana,24,Grasas,,,,,,,,,,,,
+,,,,Refrescos embotellados,3 o 4 veces por semana,8,Bebidas,,,,,,,,,,,,
+,,,,Refrescos embotellados,Nunca,12,Bebidas,,,,,,,,,,,,
+,,,,Refrescos embotellados,Diario,15,Bebidas,,,,,,,,,,,,
+,,,,Refrescos embotellados,1 o 2 veces por semana,28,Bebidas,,,,,,,,,,,,
+,,,,Bebidas azucaradas,Nunca,6,Bebidas,,,,,,,,,,,,
+,,,,Bebidas azucaradas,Diario,9,Bebidas,,,,,,,,,,,,
+,,,,Bebidas azucaradas,3 o 4 veces por semana,12,Bebidas,,,,,,,,,,,,
+,,,,Bebidas azucaradas,1 o 2 veces por semana,36,Bebidas,,,,,,,,,,,,
