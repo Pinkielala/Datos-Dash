@@ -10,7 +10,7 @@ Nivel de escolaridad,Preparatoria completa,1,Escolaridad
 Tipo de vivienda,Convencional,45,Vivienda
 Tipo de vivienda,Tradicional,12,Vivienda
 Tipo de vivienda,Mixta,3,Vivienda
-Tipo de vivienda,Vernácula,2,Vivienda
+Tipo de vivienda,Vernacula,2,Vivienda
 Tipo de vivienda,Precaria,1,Vivienda
 Padecimientos,Diabetes,25,Enfermedades
 Padecimientos,Hipertensión,30,Enfermedades
@@ -18,7 +18,7 @@ Padecimientos,Otra,16,Enfermedades
 Padecimientos,Obesidad,7,Enfermedades
 Padecimientos,Cardiovasculares,0,Enfermedades
 Padecimientos,Pulmonares,0,Enfermedades
-Padecimientos,Del Hígado,0,Enfermedades
+Padecimientos,Del Higado,0,Enfermedades
 Padecimientos,Cancer,0,Enfermedades
 Padecimientos,No padece ninguna,11,Enfermedades
 Padecimientos,Asma,1,Enfermedades
