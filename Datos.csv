@@ -13,21 +13,21 @@ Tipo de vivienda,Mixta,3,Vivienda
 Tipo de vivienda,Vernácula,2,Vivienda
 Tipo de vivienda,Precaria,1,Vivienda
 Padecimientos,Diabetes,25,Enfermedades
-Padecimientos,Hipertensión,30,Enfermedades
+Padecimientos,Hipertension,30,Enfermedades
 Padecimientos,Otra,16,Enfermedades
 Padecimientos,Obesidad,7,Enfermedades
 Padecimientos,Cardiovasculares,0,Enfermedades
 Padecimientos,Pulmonares,0,Enfermedades
-Padecimientos,Del Hígado,0,Enfermedades
+Padecimientos,Del Higado,0,Enfermedades
 Padecimientos,Cancer,0,Enfermedades
 Padecimientos,No padece ninguna,11,Enfermedades
 Padecimientos,Asma,1,Enfermedades
 Padecimientos,Insuficiencia renal,2,Enfermedades
 Ejercicio físico,Sí practicaba,28,Hábitos
 Ejercicio físico,No practicaba,35,Hábitos
-Cambiará  alimentación ,Sí lo considera,16,Hábitos
-Cambiará  alimentación ,No lo considera,47,Hábitos
-Incremento de peso ,Sí ha incrementado,21,Hábitos
-Incremento de peso ,No ha incrementado,42,Hábitos
+Cambiara  alimentación ,Sí lo considera,16,Habitos
+Cambiara  alimentación ,No lo considera,47,Habitos
+Incremento de peso ,Sí ha incrementado,21,Habitos
+Incremento de peso ,No ha incrementado,42,Habitos
 Modificaron  alimentación ,Sí modificaron,26,Hábitos
 Modificaron  alimentación ,No modificaron,37,Hábitos
