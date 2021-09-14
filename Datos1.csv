@@ -1,0 +1,87 @@
+X,Y,Personas,Tipo
+Maiz,Nunca,1,Cereales
+Maiz,1 o 2 veces por semana ,4,Cereales
+Maiz,3 o 4 veces por semana,6,Cereales
+Maiz,Diario ,52,Cereales
+Arroz ,Nunca,1,Cereales
+Arroz ,Diario ,4,Cereales
+Arroz ,3 o 4 veces por semana,9,Cereales
+Arroz ,1 o 2 veces por semana ,49,Cereales
+Avena ,Nunca,7,Cereales
+Avena ,3 o 4 veces por semana,11,Cereales
+Avena ,Diario ,15,Cereales
+Avena ,1 o 2 veces por semana ,30,Cereales
+Trigo ,Diario ,3,Cereales
+Trigo ,1 o 2 veces por semana ,21,Cereales
+Trigo ,Nunca,39,Cereales
+Res,Nunca,14,Alimentos de origen animal
+Res,1 o 2 veces por semana ,49,Alimentos de origen animal
+Pollo ,Nunca,1,Alimentos de origen animal
+Pollo ,Diario ,3,Alimentos de origen animal
+Pollo ,3 o 4 veces por semana,20,Alimentos de origen animal
+Pollo ,1 o 2 veces por semana ,39,Alimentos de origen animal
+Puerco,Nunca,1,Alimentos de origen animal
+Puerco,3 o 4 veces por semana,13,Alimentos de origen animal
+Puerco,1 o 2 veces por semana ,49,Alimentos de origen animal
+Pescado,3 o 4 veces por semana,1,Alimentos de origen animal
+Pescado,1 o 2 veces por semana ,19,Alimentos de origen animal
+Pescado,Nunca,43,Alimentos de origen animal
+Derivados leche,Nunca,3,Alimentos de origen animal
+Derivados leche,Diario,9,Alimentos de origen animal
+Derivados leche,3 o 4 veces por semana,10,Alimentos de origen animal
+Derivados leche,1 o 2 veces por semana ,41,Alimentos de origen animal
+Huevo,Nunca,6,Alimentos de origen animal
+Huevo,Diario,9,Alimentos de origen animal
+Huevo,3 o 4 veces por semana,13,Alimentos de origen animal
+Huevo,1 o 2 veces por semana ,35,Alimentos de origen animal
+Ibes,3 o 4 veces por semana,4,Leguminosas
+Ibes,Nunca,17,Leguminosas
+Ibes,1 o 2 veces por semana ,42,Leguminosas
+Xpelón ,Nunca,16,Leguminosas
+Xpelón ,1 o 2 veces por semana ,47,Leguminosas
+Frijol,Diario ,5,Leguminosas
+Frijol,3 o 4 veces por semana,26,Leguminosas
+Frijol,1 o 2 veces por semana ,32,Leguminosas
+Lentejas,3 o 4 veces por semana,5,Leguminosas
+Lentejas,Nunca,8,Leguminosas
+Lentejas,1 o 2 veces por semana ,50,Leguminosas
+Frutas,1 o 2 veces por semana,36,Frutas y verduras
+Frutas,3 o 4 veces por semana,14,Frutas y verduras
+Frutas,Diario,12,Frutas y verduras
+Frutas,Nunca,1,Frutas y verduras
+Verduras,1 o 2 veces por semana,36,Frutas y verduras
+Verduras,3 o 4 veces por semana,16,Frutas y verduras
+Verduras,Diario,10,Frutas y verduras
+Verduras,Nunca,1,Frutas y verduras
+Pan Francés,3 o 4 veces por semana,8,Harinas
+Pan Francés,Nunca,10,Harinas
+Pan Francés,Diario,16,Harinas
+Pan Francés,1 o 2 veces por semana,29,Harinas
+Pan Dulce,3 o 4 veces por semana,10,Harinas
+Pan Dulce,Diario,10,Harinas
+Pan Dulce,Nunca,13,Harinas
+Pan Dulce,1 o 2 veces por semana,30,Harinas
+Galletas,Nunca,5,Harinas
+Galletas,3 o 4 veces por semana,13,Harinas
+Galletas,Diario,22,Harinas
+Galletas,1 o 2 veces por semana,23,Harinas
+Golosinas,3 o 4 veces por semana,1,Harinas
+Golosinas,Diario,2,Harinas
+Golosinas,1 o 2 veces por semana,16,Harinas
+Golosinas,Nunca,44,Harinas
+Aceite,Diario,8,Grasas
+Aceite,3 o 4 veces por semana,10,Grasas
+Aceite,Nunca,11,Grasas
+Aceite,1 o 2 veces por semana,34,Grasas
+Manteca,Diario,8,Grasas
+Manteca,3 o 4 veces por semana,10,Grasas
+Manteca,Nunca,21,Grasas
+Manteca,1 o 2 veces por semana,24,Grasas
+Refrescos embotellados,3 o 4 veces por semana,8,Bebidas
+Refrescos embotellados,Nunca,12,Bebidas
+Refrescos embotellados,Diario,15,Bebidas
+Refrescos embotellados,1 o 2 veces por semana,28,Bebidas
+Bebidas azucaradas,Nunca,6,Bebidas
+Bebidas azucaradas,Diario,9,Bebidas
+Bebidas azucaradas,3 o 4 veces por semana,12,Bebidas
+Bebidas azucaradas,1 o 2 veces por semana,36,Bebidas
