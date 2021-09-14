@@ -1,0 +1,25 @@
+﻿XX,Y,Personas,Tipo
+Nivel de escolaridad,Sin experiencia escolar,20,Escolaridad
+Nivel de escolaridad,Primaria incompleta,14,Escolaridad
+Nivel de escolaridad,Primaria completa,13,Escolaridad
+Nivel de escolaridad,Secundaria completa,12,Escolaridad
+Nivel de escolaridad,Secundaria incompleta,2,Escolaridad
+Nivel de escolaridad,Educación superior completa ,1,Escolaridad
+Nivel de escolaridad,Educación superior incompleta ,1,Escolaridad
+Nivel de escolaridad,Preparatoria completa,1,Escolaridad
+Tipo de vivienda,Convencional,45,Vivienda
+Tipo de vivienda,Tradicional,12,Vivienda
+Tipo de vivienda,Mixta,3,Vivienda
+Tipo de vivienda,Vernácula,2,Vivienda
+Tipo de vivienda,Precaria,1,Vivienda
+Padecimientos,Diabetes,25,Enfermedades
+Padecimientos,Hipertensión,30,Enfermedades
+Padecimientos,Otra,16,Enfermedades
+Padecimientos,Obesidad,7,Enfermedades
+Padecimientos,Cardiovasculares,0,Enfermedades
+Padecimientos,Pulmonares,0,Enfermedades
+Padecimientos,Del Hígado,0,Enfermedades
+Padecimientos,Cancer,0,Enfermedades
+Padecimientos,No padece ninguna,11,Enfermedades
+Padecimientos,Asma,1,Enfermedades
+Padecimientos,Insuficiencia renal,2,Enfermedades
