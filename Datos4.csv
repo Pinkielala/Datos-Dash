@@ -1,6 +1,6 @@
 X,Y,Personas,Tipo
-Significado de SARScov2-19,Saben que significa,40,Informacion 
-Significado de SARScov2-19,No saben que significa,23,Informacion 
+Significado de SARScov2-19,Saben que significa,40,Informacion Basica
+Significado de SARScov2-19,No saben que significa,23,Informacion Basica
 Medio de conocimiento,Television,42,Conocimiento Covid
 Medio de conocimiento,Centro de salud,6,Conocimiento Covid
 Medio de conocimiento,Vecinos,6,Conocimiento Covid
@@ -9,19 +9,19 @@ Medio de conocimiento,Redes sociales,2,Conocimiento Covid
 Medio de conocimiento,Familiares,1,Conocimiento Covid
 Medio de conocimiento,Periodico,1,Conocimiento Covid
 Medio de conocimiento,Platica de maestros,1,Conocimiento Covid
-Personas vulnerables,Niños (0 a 11 años),1,Opinion
-Personas vulnerables,Adultos (30 a 59 años),3,Opinion
-Personas vulnerables,Adultos mayores (mayores de 60 años),26,Opinion
-Personas vulnerables,Los que padecen enfermedades,33,Opinion
-Conoce el medio de transmisión,No sabe,14,Informacion
-Conoce el medio de transmisión,Si sabe,49,Informacion
-conoce persona Asintomatica,No sabe,43,Informacion
-conoce persona Asintomatica,Si sabe,20,Informacion
-Cuidados en casa,No sabe,5,Informacion
-Cuidados en casa,Si sabe,58,Informacion
-Cuidados fuera de casa,No sabe,2,Informacion
-Cuidados fuera de casa,No salgo de mi casa,3,Informacion
-Cuidados fuera de casa,Si sabe,58,Informacion
+Personas vulnerables,Niños (0 a 11 años),1,vulnerables
+Personas vulnerables,Adultos (30 a 59 años),3,vulnerables
+Personas vulnerables,Adultos mayores (mayores de 60 años),26,vulnerables
+Personas vulnerables,Los que padecen enfermedades,33,vulnerables
+Conoce el medio de transmisión,No sabe,14,Informacion Basica
+Conoce el medio de transmisión,Si sabe,49,Informacion Basica
+conoce persona Asintomatica,No sabe,43,Informacion Basica
+conoce persona Asintomatica,Si sabe,20,Informacion Basica
+Cuidados en casa,No sabe,5,Informacion Basica
+Cuidados en casa,Si sabe,58,Informacion Basica
+Cuidados fuera de casa,No sabe,2,Informacion Basica
+Cuidados fuera de casa,No salgo de mi casa,3,Informacion Basica
+Cuidados fuera de casa,Si sabe,58,Informacion Basica
 Cuidados  si familiar enfermo,Otra,1,Conocimiento de atencion
 Cuidados  si familiar enfermo,Consultar con un medico tradicional,1,Conocimiento de atencion
 Cuidados  si familiar enfermo,Llamar a un médico particular,3,Conocimiento de atencion
