@@ -1,33 +1,33 @@
 X,Y,Personas,Tipo
-Significado de SARScov2-19,Saben qué significa,40,Informacion 
-Significado de SARScov2-19,No saben qué significa,23,Informacion 
-Medio de conocimiento,Televisión,42,Conocimiento Covid
+Significado de SARScov2-19,Saben que significa,40,Informacion 
+Significado de SARScov2-19,No saben que significa,23,Informacion 
+Medio de conocimiento,Television,42,Conocimiento Covid
 Medio de conocimiento,Centro de salud,6,Conocimiento Covid
 Medio de conocimiento,Vecinos,6,Conocimiento Covid
 Medio de conocimiento,Radio,4,Conocimiento Covid
 Medio de conocimiento,Redes sociales,2,Conocimiento Covid
 Medio de conocimiento,Familiares,1,Conocimiento Covid
-Medio de conocimiento,Periódico,1,Conocimiento Covid
-Medio de conocimiento,Plática de maestros,1,Conocimiento Covid
+Medio de conocimiento,Periodico,1,Conocimiento Covid
+Medio de conocimiento,Platica de maestros,1,Conocimiento Covid
 Personas vulnerables,Niños (0 a 11 años),1,Opinion
 Personas vulnerables,Adultos (30 a 59 años),3,Opnion
 Personas vulnerables,Adultos mayores (mayores de 60 años),26,Opinion
 Personas vulnerables,Los que padecen enfermedades,33,Opinion
 Conoce el medio de transmisión,No sabe,14,Informacion
-Conoce el medio de transmisión,Sí sabe,49,Informacion
-conoce persona Asintomática,No sabe,43,Informacion
-conoce persona Asintomática,Sí sabe,20,Informacion
+Conoce el medio de transmisión,Si sabe,49,Informacion
+conoce persona Asintomatica,No sabe,43,Informacion
+conoce persona Asintomatica,Si sabe,20,Informacion
 Cuidados en casa,No sabe,5,Informacion
 Cuidados en casa,Si sabe,58,Informacion
 Cuidados fuera de casa,No sabe,2,Informacion
 Cuidados fuera de casa,No salgo de mi casa,3,Informacion
 Cuidados fuera de casa,Si sabe,58,Informacion
 Cuidados  si familiar enfermo,Otra,1,Conocimiento de atencion
-Cuidados  si familiar enfermo,Consultar con un médico tradicional,1,Conocimiento de atencion
+Cuidados  si familiar enfermo,Consultar con un medico tradicional,1,Conocimiento de atencion
 Cuidados  si familiar enfermo,Llamar a un médico particular,3,Conocimiento de atencion
 Cuidados  si familiar enfermo,Avisar a la presidencia municipal,4,Conocimiento de atencion
-Cuidados  si familiar enfermo,Llamar a alguna línea de atención de COVD-19,6,Conocimiento de atencion
-Cuidados  si familiar enfermo,No sabe,9,Conocimiento de atención
+Cuidados  si familiar enfermo,Llamar a alguna linea de atencion de COVD-19,6,Conocimiento de atencion
+Cuidados  si familiar enfermo,No sabe,9,Conocimiento de atencion
 Cuidados  si familiar enfermo,Ir directamente al centro de salud,12,Conocimiento de atencion
 Cuidados  si familiar enfermo,Aislarse en casa,27,Conocimiento de atencion
 Cuidados de enfermo,No sabe,37,Conocimiento de atencion
