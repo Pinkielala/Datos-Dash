@@ -1,6 +1,6 @@
 X,Y,Personas,Tipo
-Significado de SARScov2-19,Saben qué significa,40,Conocimiento Covid
-Significado de SARScov2-19,No saben qué significa,23,Conocimiento Covid
+Significado de SARScov2-19,Saben qué significa,40,Informacion 
+Significado de SARScov2-19,No saben qué significa,23,Informacion 
 Medio de conocimiento,Televisión,42,Conocimiento Covid
 Medio de conocimiento,Centro de salud,6,Conocimiento Covid
 Medio de conocimiento,Vecinos,6,Conocimiento Covid
@@ -9,14 +9,14 @@ Medio de conocimiento,Redes sociales,2,Conocimiento Covid
 Medio de conocimiento,Familiares,1,Conocimiento Covid
 Medio de conocimiento,Periódico,1,Conocimiento Covid
 Medio de conocimiento,Plática de maestros,1,Conocimiento Covid
-Personas vulnerables,Niños (0 a 11 años),1,Conocimiento Covid
-Personas vulnerables,Adultos (30 a 59 años),3,Conocimiento Covid
-Personas vulnerables,Adultos mayores (mayores de 60 años),26,Conocimiento Covid
-Personas vulnerables,Los que padecen enfermedades,33,Conocimiento Covid
-Conoce el medio de transmisión,No sabe,14,Conocimiento Covid
-Conoce el medio de transmisión,Sí sabe,49,Conocimiento Covid
-conoce persona Asintomática,No sabe,43,Conocimiento Covid
-conoce persona Asintomática,Sí sabe,20,Conocimiento Covid
+Personas vulnerables,Niños (0 a 11 años),1,Opinion
+Personas vulnerables,Adultos (30 a 59 años),3,Opnion
+Personas vulnerables,Adultos mayores (mayores de 60 años),26,Opinion
+Personas vulnerables,Los que padecen enfermedades,33,Opinion
+Conoce el medio de transmisión,No sabe,14,Informacion
+Conoce el medio de transmisión,Sí sabe,49,Informacion
+conoce persona Asintomática,No sabe,43,Informacion
+conoce persona Asintomática,Sí sabe,20,Informacion
 Cuidados en casa,No sabe,5,Conocimiento de atencion
 Cuidados en casa,Si sabe,58,Conocimiento de atencion
 Cuidados fuera de casa,No sabe,2,Conocimiento de atencion
