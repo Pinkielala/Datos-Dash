@@ -1,0 +1,24 @@
+﻿X,Y,Personas,Tipo
+Oficios,Estudiante,2,Trabajos
+Oficios,Pensionado o jubilado,4,Trabajos
+Oficios,contratista,5,Trabajos
+Oficios,Otro,7,Trabajos
+Oficios,Trabajador en cuenta propia,8,Trabajos
+Oficios,Empleado,16,Trabajos
+Oficios,Ama de Casa,32,Trabajos
+Lugares de oficio,Teabo,12,Empleado
+Lugares de oficio,Mérida,2,Empleado
+Lugares de oficio,Tekax,1,Empleado
+Lugares de oficio,Hogar,1,Empleado
+Estabilidad ,No lo conservaron,7,Empleado
+Estabilidad ,Sí lo conservaron,9,Empleado
+Reducción salario,No lo consideran,3,Empleado
+Reducción salario,Si lo consideran,5,Empleado
+Funcionamiento empresa,No ha seguido funcionando,2,Empleador
+Funcionamiento empresa,Ha seguido funcionando,12,Empleador
+Nivel de ventas,No se mantuvo,9,Empleador
+Nivel de ventas,Sí se mantuvo,3,Empleador
+Acciones ,Disminuir la jornada de trabajo,2,Empleador
+Acciones ,Cambio en el modelo del negocio,1,Empleador
+Acciones ,ninguna,1,Empleador
+Acciones ,Despedir empleados,1,Empleador
